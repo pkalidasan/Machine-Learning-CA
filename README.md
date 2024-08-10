@@ -20,23 +20,18 @@ There are Five different regression algorithms:
 5.Support Vector Regressor
 
 Linear Regression: 
-
 A simple yet effective model to understand the linear relationship between the features and car prices.
 
 Decision Tree Regressor:
-
 A non-linear model that creates a tree structure to make predictions based on decision rules inferred from the data.
 
 Random Forest Regressor:
-
 An ensemble learning method that builds multiple decision trees and merges them to improve prediction accuracy.
 
 Gradient Boosting Regressor: 
-
 Another ensemble technique that builds models sequentially, with each new model correcting errors made by the previous ones.
 
 Support Vector Regressor (SVR): 
-
 A model that attempts to fit the data within a certain margin, optimizing for the best boundary.
 
 4. Model Evaluation:
