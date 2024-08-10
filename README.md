@@ -16,22 +16,23 @@ There are Five different regression algorithms:
 4.Gradient Boosting Regressor
 5.Support Vector Regressor
 
-# Linear Regression: 
+Linear Regression: 
 A simple yet effective model to understand the linear relationship between the features and car prices.
 
-# Decision Tree Regressor:
+Decision Tree Regressor:
 A non-linear model that creates a tree structure to make predictions based on decision rules inferred from the data.
 
-# Random Forest Regressor:
+Random Forest Regressor:
 An ensemble learning method that builds multiple decision trees and merges them to improve prediction accuracy.
 
-# Gradient Boosting Regressor: 
+Gradient Boosting Regressor: 
 Another ensemble technique that builds models sequentially, with each new model correcting errors made by the previous ones.
 
-# Support Vector Regressor (SVR): 
+Support Vector Regressor (SVR): 
 A model that attempts to fit the data within a certain margin, optimizing for the best boundary.
 
 4. Model Evaluation:
+   
 Each model's performance was evaluated using R-squared, Mean Squared Error (MSE), and Mean Absolute Error (MAE) metrics. These metrics provided insights into the accuracy and robustness of each model. The comparison allowed for the identification of the best-performing model.
 
 6. Feature Importance Analysis:
@@ -40,5 +41,5 @@ An analysis was conducted to determine which variables significantly impact car 
 8. Hyperparameter Tuning:
 The best-performing model underwent hyperparameter tuning to further enhance its performance. Techniques such as Grid Search or Randomized Search were used to find the optimal set of hyperparameters, resulting in improved model accuracy and reliability.
 
-#Conclusion:
+# Conclusion:
 The project successfully identified the relationships between car prices and various independent variables, providing the management with a powerful tool to understand and predict car pricing dynamics. The insights gained from the feature importance analysis and the best-performing model's predictions can guide future business strategies and market entry decisions.
